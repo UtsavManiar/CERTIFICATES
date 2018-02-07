@@ -1,5 +1,5 @@
 # CERTIFICATES
-Relevant verified certificates achieved through MOOC Courses
+Relevant verified certificates achieved through MOOC Courses from Coursera, edX
 <p align="center">
 <img src="Certificates/Coursera-MachineLearning-Andrew Ng.jpg?raw=true" width="500">
 </p>
@@ -25,14 +25,14 @@ Relevant verified certificates achieved through MOOC Courses
 <img src="Certificates/Coursera-Community-Mentor.jpg?raw=true" width="500">
 </p>
 <p align="center">
-<img src="UTArlingtonX CSE1309x-PythonProgramming-Certificate- edX.jpg?raw=true" width="500">
+<img src="Certificates/UTArlingtonX CSE1309x-PythonProgramming-Certificate- edX.jpg?raw=true" width="500">
 </p>
 <p align="center">
 <img src="Certificates/Microsoft DAT204x-RProgramming-Certificate- edX.jpg?raw=true" width="500">
 </p>
 <p align="center">
-<img src="EDX-LINUX-Certificate.jpg?raw=true" width="500">
+<img src="Certificates/EDX-LINUX-Certificate.jpg?raw=true" width="500">
 </p>
 <p align="center">
-<img src="BigData-Udemy.jpg?raw=true" width="500">
+<img src="Certificates/BigData-Udemy.jpg?raw=true" width="500">
 </p>
